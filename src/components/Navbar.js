@@ -19,7 +19,7 @@ const Navbar = () => {
           fontSize="24px"
           alignItems="flex-end"
       >
-        <Link to="/" style={{
+        <Link to="/fitness_exercises" style={{
           textDecoration: 'none', color: '#3A1212', borderBottom: '3px solid #FF2625'}} mb="20px">Home</Link>
         <a href="#exercises"  style={{ 
           behavior: 'smooth', textDecoration: 'none', color: '#3A1212'}}>Exercise</a>
